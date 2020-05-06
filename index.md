@@ -1,4 +1,4 @@
-Babel is an AI-driven speech-to-speech translator.
+## Babel is an AI-driven speech-to-speech translator.
 
 Our goal is to create something that will provide natural translations of content for businesses and education.
 
