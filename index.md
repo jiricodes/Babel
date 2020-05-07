@@ -9,7 +9,7 @@ Babel uses AI-learning to mimic a foreign speaker's *voice* and speech patterns 
 - Increases your market size among non-native customers
 - Stopgap solution or total replacement for hiring voice-over actors
 - Automatic dubbing of content other than our current use-case
-- Possible live translation in the future
+- Possible live translation in the future (streaming, etc.)
 
 ## For schools
 - Studies show that students learning in their native language..
