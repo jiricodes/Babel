@@ -5,7 +5,13 @@ Our goal is to create something that will provide natural translations of conten
 Babel uses AI-learning to mimic a foreign speaker's *voice* and speech patterns before translating the speaker to your native language. This way, you can focus on **what** is being said or shown on the screen rather than *reading* the subtitles.
 
 ## For businesses
-Babel reduces the friction and cost of onboarding new employees or your customers both natively and globally, by being able to support the orientation process without language barriers or time-consuming voice-overs.
+- Reduces the friction and cost of onboarding new employees
+- Increases your market size among non-native customers
+- Stopgap solution or total replacement for hiring voice-over actors
 
 ## For schools
-Many studies support the fact that students learn more efficiently, perform with higher grades, and are more likely to engage with their native language. Babel can be a good first step to providing a better and more accessible learning experience to your students.
+- Studies show that students learning in their native language..
+  - Are more likely to engage with the material
+  - Learn more efficiently
+  - Perform with higher grades
+- Good step towards a more accessible learning experience
